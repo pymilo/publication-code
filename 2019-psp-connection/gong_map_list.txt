@@ -1,2 +1,2 @@
 https://gong2.nso.edu/oQR/zqs/201903/mrzqs190325/mrzqs190325t0904c2215_130.fits.gz
-https://secchi.nrl.navy.mil/synomaps/images/carrmaps/a/euvi/cm/fits/cmeuA171sid319cr2210C0id33011.fts.gz
+https://gong2.nso.edu/oQR/zqs/201811/mrzqs181111/mrzqs181111t1104c2210_094.fits.gz
